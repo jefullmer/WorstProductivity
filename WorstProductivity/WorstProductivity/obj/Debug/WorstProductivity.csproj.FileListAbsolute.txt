@@ -1,0 +1,13 @@
+C:\Users\James\source\repos\WorstProductivity\WorstProductivity\bin\Debug\WorstProductivity.exe.config
+C:\Users\James\source\repos\WorstProductivity\WorstProductivity\bin\Debug\WorstProductivity.exe
+C:\Users\James\source\repos\WorstProductivity\WorstProductivity\bin\Debug\WorstProductivity.pdb
+C:\Users\James\source\repos\WorstProductivity\WorstProductivity\bin\Debug\AudioSwitcher.AudioApi.CoreAudio.dll
+C:\Users\James\source\repos\WorstProductivity\WorstProductivity\bin\Debug\AudioSwitcher.AudioApi.dll
+C:\Users\James\source\repos\WorstProductivity\WorstProductivity\obj\Debug\WorstProductivity.csprojAssemblyReference.cache
+C:\Users\James\source\repos\WorstProductivity\WorstProductivity\obj\Debug\WorstProductivity.Form1.resources
+C:\Users\James\source\repos\WorstProductivity\WorstProductivity\obj\Debug\WorstProductivity.Properties.Resources.resources
+C:\Users\James\source\repos\WorstProductivity\WorstProductivity\obj\Debug\WorstProductivity.csproj.GenerateResource.cache
+C:\Users\James\source\repos\WorstProductivity\WorstProductivity\obj\Debug\WorstProductivity.csproj.CoreCompileInputs.cache
+C:\Users\James\source\repos\WorstProductivity\WorstProductivity\obj\Debug\WorstProductivity.csproj.CopyComplete
+C:\Users\James\source\repos\WorstProductivity\WorstProductivity\obj\Debug\WorstProductivity.exe
+C:\Users\James\source\repos\WorstProductivity\WorstProductivity\obj\Debug\WorstProductivity.pdb
